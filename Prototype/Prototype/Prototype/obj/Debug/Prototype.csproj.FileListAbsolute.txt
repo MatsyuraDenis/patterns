@@ -1,0 +1,7 @@
+C:\z_files\patterns\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\z_files\patterns\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\z_files\patterns\Prototype\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\z_files\patterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\z_files\patterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\z_files\patterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.pdb

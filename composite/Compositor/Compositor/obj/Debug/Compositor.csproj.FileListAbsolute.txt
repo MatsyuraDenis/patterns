@@ -1,0 +1,7 @@
+C:\z_files\patterns\composite\Compositor\Compositor\bin\Debug\Compositor.exe.config
+C:\z_files\patterns\composite\Compositor\Compositor\bin\Debug\Compositor.exe
+C:\z_files\patterns\composite\Compositor\Compositor\bin\Debug\Compositor.pdb
+C:\z_files\patterns\composite\Compositor\Compositor\obj\Debug\Compositor.csprojAssemblyReference.cache
+C:\z_files\patterns\composite\Compositor\Compositor\obj\Debug\Compositor.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\composite\Compositor\Compositor\obj\Debug\Compositor.exe
+C:\z_files\patterns\composite\Compositor\Compositor\obj\Debug\Compositor.pdb

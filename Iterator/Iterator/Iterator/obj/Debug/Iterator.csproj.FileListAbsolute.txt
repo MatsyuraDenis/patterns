@@ -1,0 +1,7 @@
+C:\z_files\patterns\Iterator\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\z_files\patterns\Iterator\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\z_files\patterns\Iterator\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\z_files\patterns\Iterator\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\z_files\patterns\Iterator\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\Iterator\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\z_files\patterns\Iterator\Iterator\Iterator\obj\Debug\Iterator.pdb

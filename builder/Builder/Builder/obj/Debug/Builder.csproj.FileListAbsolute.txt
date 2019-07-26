@@ -1,0 +1,7 @@
+C:\z_files\patterns\builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\z_files\patterns\builder\Builder\Builder\bin\Debug\Builder.exe
+C:\z_files\patterns\builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\z_files\patterns\builder\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\z_files\patterns\builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\builder\Builder\Builder\obj\Debug\Builder.exe
+C:\z_files\patterns\builder\Builder\Builder\obj\Debug\Builder.pdb

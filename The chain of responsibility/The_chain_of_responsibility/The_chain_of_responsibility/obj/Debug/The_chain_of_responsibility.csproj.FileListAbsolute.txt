@@ -1,0 +1,7 @@
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\bin\Debug\The_chain_of_responsibility.exe.config
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\bin\Debug\The_chain_of_responsibility.exe
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\bin\Debug\The_chain_of_responsibility.pdb
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\obj\Debug\The_chain_of_responsibility.csprojAssemblyReference.cache
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\obj\Debug\The_chain_of_responsibility.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\obj\Debug\The_chain_of_responsibility.exe
+C:\z_files\patterns\The chain of responsibility\The_chain_of_responsibility\The_chain_of_responsibility\obj\Debug\The_chain_of_responsibility.pdb

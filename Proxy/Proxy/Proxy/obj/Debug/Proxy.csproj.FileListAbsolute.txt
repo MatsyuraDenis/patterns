@@ -1,0 +1,7 @@
+C:\z_files\patterns\Proxy\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\z_files\patterns\Proxy\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\Proxy\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\z_files\patterns\Proxy\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\z_files\patterns\Proxy\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\z_files\patterns\Proxy\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\z_files\patterns\Proxy\Proxy\Proxy\obj\Debug\Proxy.pdb

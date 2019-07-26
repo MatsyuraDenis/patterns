@@ -1,0 +1,7 @@
+C:\z_files\patterns\memento\Memento\Memento\bin\Debug\Memento.exe.config
+C:\z_files\patterns\memento\Memento\Memento\bin\Debug\Memento.exe
+C:\z_files\patterns\memento\Memento\Memento\bin\Debug\Memento.pdb
+C:\z_files\patterns\memento\Memento\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\z_files\patterns\memento\Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\memento\Memento\Memento\obj\Debug\Memento.exe
+C:\z_files\patterns\memento\Memento\Memento\obj\Debug\Memento.pdb

@@ -1,0 +1,7 @@
+C:\z_files\patterns\Template\Template\Template\bin\Debug\Template.exe.config
+C:\z_files\patterns\Template\Template\Template\bin\Debug\Template.exe
+C:\z_files\patterns\Template\Template\Template\bin\Debug\Template.pdb
+C:\z_files\patterns\Template\Template\Template\obj\Debug\Template.csprojAssemblyReference.cache
+C:\z_files\patterns\Template\Template\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\Template\Template\Template\obj\Debug\Template.exe
+C:\z_files\patterns\Template\Template\Template\obj\Debug\Template.pdb

@@ -1,0 +1,7 @@
+C:\z_files\patterns\State\State\State\bin\Debug\State.exe.config
+C:\z_files\patterns\State\State\State\bin\Debug\State.exe
+C:\z_files\patterns\State\State\State\bin\Debug\State.pdb
+C:\z_files\patterns\State\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\z_files\patterns\State\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\State\State\State\obj\Debug\State.exe
+C:\z_files\patterns\State\State\State\obj\Debug\State.pdb

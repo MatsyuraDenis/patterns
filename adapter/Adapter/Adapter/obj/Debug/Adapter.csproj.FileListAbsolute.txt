@@ -1,0 +1,7 @@
+C:\z_files\patterns\adapter\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\z_files\patterns\adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\adapter\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\z_files\patterns\adapter\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\z_files\patterns\adapter\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\z_files\patterns\adapter\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\z_files\patterns\adapter\Adapter\Adapter\obj\Debug\Adapter.pdb

@@ -1,0 +1,7 @@
+C:\z_files\patterns\facade\Facade\Facade\bin\Debug\Facade.exe.config
+C:\z_files\patterns\facade\Facade\Facade\bin\Debug\Facade.exe
+C:\z_files\patterns\facade\Facade\Facade\bin\Debug\Facade.pdb
+C:\z_files\patterns\facade\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\z_files\patterns\facade\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\facade\Facade\Facade\obj\Debug\Facade.exe
+C:\z_files\patterns\facade\Facade\Facade\obj\Debug\Facade.pdb

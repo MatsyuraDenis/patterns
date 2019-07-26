@@ -1,0 +1,7 @@
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\z_files\patterns\flyweight\Flyweight\Flyweight\obj\Debug\Flyweight.pdb

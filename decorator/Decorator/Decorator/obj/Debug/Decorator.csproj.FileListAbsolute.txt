@@ -1,0 +1,7 @@
+C:\z_files\patterns\decorator\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\z_files\patterns\decorator\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\z_files\patterns\decorator\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\z_files\patterns\decorator\Decorator\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\z_files\patterns\decorator\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\z_files\patterns\decorator\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\z_files\patterns\decorator\Decorator\Decorator\obj\Debug\Decorator.pdb
